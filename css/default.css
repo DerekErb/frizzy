@@ -113,6 +113,15 @@ div.logo .reg {
 	font-size: 1.4rem;
 }
 
+	/* Smartphone */
+	@media screen and (max-width: 480px) {
+		div.logo .reg {
+			top: -24px;
+			left: -36px;
+			font-size: 1.2rem;
+		}
+	}
+
 div.statement {
 	margin: 0.25% 0 1% 2%;
 	text-align: left;
