@@ -1,0 +1,48 @@
+/******************************
+dataprot.css
+Copyright 2019-2019 Derek Erb
+http://www.cabinetderekerb.com
+
+For www.frizzyfoundation.org
+******************************/
+
+article {
+	width: 120ch;
+	margin: 2% auto 2% auto;
+}
+
+article > div {
+	margin-top: 0;
+	margin-bottom: 1em;
+}
+
+li {
+	font-size: 1em;
+	margin-bottom: 1%;
+}
+
+div.soustitre {
+	font-size: 1.2em;
+	text-align: center;
+	font-weight: bold;
+}
+
+span.str {
+	font-weight: bold;
+}
+
+div.policy, div.subpolicy {
+	font-weight: bold;
+}
+
+div.subpolicy, div.poltext {
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+div.datesig {
+	text-align: right;
+	margin-right: 4%;
+	font-style: italic;
+}
+
