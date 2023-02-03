@@ -107,18 +107,17 @@ div.logo img {
 
 div.logo .reg {
 	position: relative;
-	top: -48px;
-	left: -64px;
 	font-weight: bold;
 	font-size: 1.4rem;
+	top: -2em;
+	left: -3.5em;
 }
 
 	/* Smartphone */
 	@media screen and (max-width: 480px) {
 		div.logo .reg {
-			top: -24px;
-			left: -36px;
-			font-size: 1.2rem;
+			top: -1em;
+			left: -1.5em;
 		}
 	}
 
